@@ -1,2 +1,2 @@
 - Hi, I’m Artemiy Bloshetsov
-- I am learn Python, JS, Html/Css
+- I know Python, Js, and some others.
